@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá sou o Victor Batista 👋
 
-<!--
-**Victor0685/Victor0685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou cursando Análise Desenvolvimento de Sistemas
+- 🌱 Estudando JavaScript, HTML e CSS
+- 👯 Contate-me no email: vitormotog662@gmail.com
+- 🤔 Pronoums: ele/dele
+- 🔗‍💥 Linkedin: https://www.linkedin.com/in/victor-batista-357516265/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <a href="https://beacons.ai/Victor0685">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor0685&show_icons=true&theme=dracula&include_all_comits=true&cout_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor0685&layout=compact&langs_count=16&theme=dracula"/>
+  </div>
+  
