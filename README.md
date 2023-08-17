@@ -6,9 +6,24 @@
 - 🤔 Pronoums: ele/dele
 - 🔗‍💥 Linkedin: https://www.linkedin.com/in/victor-batista-357516265/
 
-  <div>
-    <a href="https://beacons.ai/Victor0685">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor0685&show_icons=true&theme=dracula&include_all_comits=true&cout_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor0685&layout=compact&langs_count=16&theme=dracula"/>
-  </div>
+  ### Tecnologias que já trabalhei
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor0685"/>
+
+<div style="display: flex">
+  
+
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  
+
+</div>
   
