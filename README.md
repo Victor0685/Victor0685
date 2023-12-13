@@ -2,7 +2,7 @@
 
 - 🔭 Estou cursando Análise Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript, HTML e CSS
-- 👯 Contate-me no email: vitormotog662@gmail.com
+- 🤝🏾 Contate-me no email: vitormotog662@gmail.com
 - 🤔 Pronoums: ele/dele
 - 🔗‍💥 Linkedin: https://www.linkedin.com/in/victor-batista-357516265/
 
